@@ -29,7 +29,7 @@ A sample of some of my personal projects. Many not displayed here are written as
 *March 2026 - May 2026*
 Lead programmer on 2D roguelike "friendslop" prototype game "Dungeons and Debt", made using Unity. I used NO generative AI tools in my work on this project.
 
-[Website](https://dungeonsanddebt.vercel.app/) (I'm not responsible for hosting it so it might not be available)
+[Website](https://dungeonsanddebt.vercel.app/) (I'm not the one hosting it, apologies if it isn't available)
 
 [Video Demo](https://www.youtube.com/watch?v=9vfeOqtezOQ)
 
