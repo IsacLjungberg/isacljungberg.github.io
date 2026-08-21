@@ -32,10 +32,10 @@ Lead programmer on 2D roguelike "friendslop" prototype game "Dungeons and Debt",
 [Video Demo](https://www.youtube.com/watch?v=9vfeOqtezOQ)
 [Game Design Document](https://drive.google.com/file/d/1awlVHTpzVg9VANIQJLTB9rgPJhbF2zNk/view?usp=sharing)
 
-### Bachelor's Thesis
+### Bachelor's Thesis (finished May 2025)
 My Bachelor's thesis on using Large Language Models as a psychology tool to evaluate personality (written in Swedish). Co-authored with Saina Shamshirdar.
 
-[Thesis on Diva](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-367699)
+[Thesis available on DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-367699)
 
 ## Fun facts about me
 - I'm a huge nerd who loves D&D and spends several hours every week either playing it or worldbuilding for my setting for it :)
