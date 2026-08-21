@@ -29,8 +29,10 @@ A sample of some of my personal projects. Many not displayed here are written as
 Lead programmer on 2D roguelike "friendslop" prototype game "Dungeons and Debt", made using Unity. I used NO generative AI during my work on this project.
 
 [Website](https://dungeonsanddebt.vercel.app/) (I'm not responsible for hosting it so it might not be available)
+
 [Video Demo](https://www.youtube.com/watch?v=9vfeOqtezOQ)
-[Game Design Document](https://drive.google.com/file/d/1awlVHTpzVg9VANIQJLTB9rgPJhbF2zNk/view?usp=sharing)
+
+[Full Game Design Document](https://drive.google.com/file/d/1awlVHTpzVg9VANIQJLTB9rgPJhbF2zNk/view?usp=sharing)
 
 ### Bachelor's Thesis (finished May 2025)
 My Bachelor's thesis on using Large Language Models as a psychology tool to evaluate personality (written in Swedish). Co-authored with Saina Shamshirdar.
