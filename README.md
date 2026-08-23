@@ -25,7 +25,12 @@
 ## Projects
 A sample of some of my personal projects. Many not displayed here are written as part of course assignments and can therefore not be shown due to KTH policy.
 
-### Game, Dungeons and Debt
+### Game Prototype, Dinner in the Dungeon
+*June 2026 - July 2026*
+
+Lead designer, programmer, and sole 3D artist on a game prototype created with one co-creator. Game designed to be a "friendslop" game similar to games like Repo or Lethal Company, but with a D&D inspired fantasy spin on things, and the special mechanic that you could eat and sell all items you picked up (meaning you can eat the keys, it's just that you probably shouldn't). Mostly a project to try out and get more experienced with Unity and see where an idea would take us.
+
+### Game Vertical Slice, Dungeons and Debt
 *March 2026 - May 2026*
 
 Lead programmer on 2D roguelike "friendslop" prototype game "Dungeons and Debt", made using Unity. I used NO generative AI tools in my work on this project.
