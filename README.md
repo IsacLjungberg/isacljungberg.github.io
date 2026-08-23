@@ -27,6 +27,7 @@ A sample of some of my personal projects. Many not displayed here are written as
 
 ### Game, Dungeons and Debt
 *March 2026 - May 2026*
+
 Lead programmer on 2D roguelike "friendslop" prototype game "Dungeons and Debt", made using Unity. I used NO generative AI tools in my work on this project.
 
 [Website](https://dungeonsanddebt.vercel.app/) (I'm not the one hosting it, apologies if it isn't available)
@@ -37,6 +38,7 @@ Lead programmer on 2D roguelike "friendslop" prototype game "Dungeons and Debt",
 
 ### Blender Globe Project and Route Tool
 *March 2026 - May 2026*
+
 A Blender Geometry Nodes tool that I developed using NO generative AI tools. Takes a two dimensional map in the form of a Mercator Projection, and projects it onto a globe. And allows a user to input coordinates that get marked on both the flat and globe representations. And finally, and most challenging to implement, allows a user to choose to point and draw a route connecting them, on both the flat and globe representations. Either a rhumb line route (navigationally convenient) or the great circle arc route (the real shortest line between two points on the globe).
 
 [Video demonstration](https://www.youtube.com/watch?v=pFmZHa7I3yk)
@@ -47,6 +49,7 @@ A Blender Geometry Nodes tool that I developed using NO generative AI tools. Tak
 
 ### Bachelor's Thesis
 *January 2025 - May 2025*
+
 My Bachelor's thesis on using Large Language Models as a psychology tool to evaluate personality (written in Swedish). Co-authored with Saina Shamshirdar.
 
 [Thesis available on DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-367699)
