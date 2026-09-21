@@ -13,6 +13,7 @@
 - Human-computer interaction in theory and practice
 - Agile Frameworks (Scrum)
 - Unity game development
+- Unity networking, services, and cloud code
 
 ## Interests
 - Programming and technical problem solving
@@ -21,6 +22,7 @@
 - Psychology and Human-computer interaction
 - Game design and development
 - Digital 3D creation
+- Computer Vision
 
 ## Projects
 A sample of some of my personal projects. Many not displayed here are written as part of course assignments and can therefore not be shown due to KTH policy.
