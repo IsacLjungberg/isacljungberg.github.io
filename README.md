@@ -27,7 +27,7 @@ A sample of some of my personal projects. Many not displayed here are written as
 
 ### Not yet finished game contract
 *August 2026 - October 2026*
-Currently hired on a contract where I'm working part time developing a ranked matchmaking system and various other features along with a colleague. Will be able to specify the game once the patch is released, but until then what game I'm working on is held under NDA. But I've been working in a full-stack capacity with unity on a real product with market share, primarily focusing my efforts on scalable cloud and database development and interaction with game clients in a networked multiplayer game.
+Currently hired on a contract where I'm working part time developing a ranked matchmaking system and various other features along with a colleague. Will be able to specify the game once the patch is released, but until then what game I'm working on is held under NDA. But I've been working in a full-stack capacity with unity on a real product with market share, primarily focusing my efforts on scalable cloud and database development and interaction with game clients in a networked multiplayer setting.
 
 ### Game Prototype, Dinner in the Dungeon
 *June 2026 - July 2026*
