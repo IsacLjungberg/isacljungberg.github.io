@@ -1,6 +1,6 @@
 # Isac Ljungberg
 
-## Experience
+## Skills
 - Programming in an array of languages (Java, Python, C#, Javascript, Elixir, Prolog, etc.)
 - Web development (HTML, Javascript, React)
 - Database Technology (SQL)
@@ -23,14 +23,15 @@
 - Game design and development
 - Digital 3D creation
 - Computer Vision
+- Roleplaying Games
 
-## Projects
+## Projects and Experience
 A sample of some of my personal projects. Many not displayed here are written as part of course assignments and can therefore not be shown due to KTH policy.
 
 ### Not yet finished game contract
 *August 2026 - October 2026*
 
-Currently hired on a contract where I'm working part time developing various features together with a colleague. Will be able to specify the game once the patch is released, but until then what game I'm working on is held under NDA. But I've been working in a full-stack capacity with unity on a real product with market share, primarily focusing my efforts on scalable cloud and database development and interaction with game clients in a networked multiplayer setting, implementing matchmaking, accessible player information, security, etc.
+Currently hired on a contract where I'm working part time developing various features together with a colleague. Will be able to specify the game once the patch is released, but until then what game I'm working on is held under NDA. But I've been working in a full-stack capacity with unity on a real product with market share, primarily focusing my efforts on scalable cloud and database development and interaction with game clients in a networked multiplayer setting, implementing matchmaking, steam integration, accessible player information, security, etc.
 
 ### Game Prototype, Dinner in the Dungeon
 *June 2026 - July 2026*
